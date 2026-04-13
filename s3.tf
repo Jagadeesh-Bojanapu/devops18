@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "one" {
-  bucket = "Jagadeesh.2024.bucket"
+  bucket = "jagadeesh.2024.bucket"
 }
 
 resource "aws_s3_bucket_ownership_controls" "two" {
